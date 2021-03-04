@@ -1,7 +1,7 @@
 /*************************************************
 Copyright:Call_Me_Yeoman
 Author:Yeoman
-Date:2020-12-10
+Date:2021-2-4
 Description:扫雷公共数据头文件
 **************************************************/
 #ifndef COMMON_H
@@ -22,7 +22,7 @@ public:
     enum lowset
     {
         LOWROWANDCOL = 9,           //初级行列数
-        LOWMINENUM = 10             //初级雷数
+        LOWMINENUM = 1             //初级雷数
     };
                                     //中级行\列\雷设置
     enum middleset

@@ -1,3 +1,9 @@
+/*************************************************
+Copyright:Call_Me_Yeoman
+Author:Yeoman
+Date:2021-2-4
+Description:扫雷英雄榜实现
+**************************************************/
 #include "herodialog.h"
 
 HeroDialog::HeroDialog(QWidget *parent) : QDialog(parent)
@@ -48,6 +54,7 @@ HeroDialog::HeroDialog(QWidget *parent) : QDialog(parent)
     vlayout->addLayout(hlayout);
 
     this->readsettings();
+//    this->init_herorecord();
 }
 
 //函数功能：读英雄榜数据并设置到当前界面
@@ -99,7 +106,7 @@ void HeroDialog::init_herorecord()
 //重新设置英雄榜的槽
 void HeroDialog::slot_reset()
 {    
-    //qDebug() << "11111" << Qt::endl;
+    qDebug() << "11111" << Qt::endl;
     lowrecordtimelabel->setText("888");
     middlerecordtimelabel->setText("888");
     heightrecordtimelabel->setText("888");

@@ -1,3 +1,9 @@
+/*************************************************
+Copyright:Call_Me_Yeoman
+Author:Yeoman
+Date:2021-2-4
+Description:扫雷main
+**************************************************/
 #include "mainwindow.h"
 
 #include <QApplication>

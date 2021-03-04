@@ -1,3 +1,9 @@
+/*************************************************
+Copyright:Call_Me_Yeoman
+Author:Yeoman
+Date:2021-2-4
+Description:扫雷方块类实现
+**************************************************/
 #include "mineitem.h"
 #include "minescene.h"
 

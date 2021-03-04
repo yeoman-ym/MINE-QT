@@ -1,7 +1,7 @@
 /*************************************************
 Copyright:Call_Me_Yeoman
 Author:Yeoman
-Date:2020-12-10
+Date:2021-2-4
 Description:扫雷英雄排行榜头文件
 **************************************************/
 #ifndef HERODIALOG_H
