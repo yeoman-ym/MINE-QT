@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/win.wav</file>
+        <file>sounds/time.wav</file>
+        <file>sounds/faile.wav</file>
+        <file>images/mine.png</file>
+        <file>images/4.png</file>
+        <file>images/flag.png</file>
+        <file>images/8.png</file>
+        <file>images/7.png</file>
+        <file>images/6.png</file>
+        <file>images/5.png</file>
+        <file>images/3.png</file>
+        <file>images/2.png</file>
+        <file>images/1.png</file>
+        <file>images/bomb.png</file>
+        <file>images/question.png</file>
+        <file>images/block.png</file>
+        <file>images/cute.png</file>
+        <file>images/smile.png</file>
+        <file>images/cry.png</file>
+        <file>images/steam.icns</file>
+        <file>images/0.png</file>
+        <file>images/press.png</file>
+    </qresource>
+</RCC>
